@@ -1,0 +1,6 @@
+product_id,category,store,product,quantity,unit,url
+milk-1,Milk,Oda,TINE lettmelk 1% 1 L,1,L,https://oda.com/no/products/430-tine-tine-lettmelk-1-fett/
+milk-1,Milk,MENY,TINE lettmelk 1% 1 L,1,L,https://meny.no/varer/meieri-egg/melk/lettmelk/lettmelk-1-0-7038010001642
+milk-05,Milk,Oda,TINE lettmelk 0.5% 1 L,1,L,https://oda.com/no/products/446-tine-tine-lettmelk-05/
+eggs-prior-6,Eggs,Oda,Prior frokostegg L 6 pack,6,item,https://oda.com/no/products/69366-prior-frokostegg-fra-frittgaende-honer-str-l/
+oats-axa,Oats,Oda,AXA Bjorn lettkokte havregryn 1.1 kg,1.1,kg,https://oda.com/no/products/1035-axa-bjorn-lettkokte-havregryn/

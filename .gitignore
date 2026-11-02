@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Generated observations and reports
+data/*.csv
+reports/*.html
+Rplots.pdf
+
+# Local R packages and web app observations
+.Rlibrary/
+data/*.rds
